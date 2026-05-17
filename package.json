@@ -1,0 +1,32 @@
+{
+  "name": "turnstilesolver",
+  "version": "1.0.0",
+  "description": "Automatic Cloudflare Turnstile Solver using puppeteer-real-browser",
+  "main": "index.js",
+  "type": "commonjs",
+  "keywords": [
+    "cloudflare",
+    "turnstile",
+    "solver",
+    "captcha",
+    "puppeteer",
+    "browser"
+  ],
+  "author": "Muhammad Farel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rayyzneverlus/turnstilesolver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rayyzneverlus/turnstilesolver/issues"
+  },
+  "homepage": "https://github.com/username/farel-turnstile-solver",
+  "dependencies": {
+    "puppeteer-real-browser": "latest",
+    "puppeteer-screen-recorder": "latest"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
